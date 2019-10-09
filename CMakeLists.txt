@@ -4,7 +4,7 @@ cmake_policy( VERSION 3.5 )
 
 project( EluvioSDE )
 
-set(HEADER_FILES main.h)
+set(HEADER_FILES main.h threadpool.h)
 set(SOURCES main.cpp)
 
 add_executable( test main.cpp)
