@@ -14,6 +14,6 @@ Result:
 -   Length of Strand: 27648
 -   sample.2 offset: 3072
 -   sample.3 offset: 17408
-- Estimated runtime: 8-12 seconds
+-   Estimated runtime: 8-12 seconds
 
-_Implemented using multithreading_
+*Implemented using multithreading*
