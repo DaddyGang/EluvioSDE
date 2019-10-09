@@ -16,4 +16,5 @@ Result:
 -   sample.3 offset: 17408
 -   Estimated runtime: 8-12 seconds
 
+Run the executable with the sample files in the same directory
 *Implemented using multithreading*
